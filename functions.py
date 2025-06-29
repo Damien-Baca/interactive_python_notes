@@ -63,6 +63,6 @@
 # non_null = str1 and str2 and str3
 # print(non_null)
 
-fp = open('iterate.txt')
-while chunk := fp.read(200):
-    print(chunk)
+# fp = open('iterate.txt')
+# while chunk := fp.read(200):
+#     print(chunk)
